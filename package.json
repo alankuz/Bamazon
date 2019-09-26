@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon clone",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alankuz/Bamazon.git"
+  },
+  "author": "Alan Kuzmanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alankuz/Bamazon/issues"
+  },
+  "homepage": "https://github.com/alankuz/Bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}

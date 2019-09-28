@@ -3,7 +3,7 @@
 
 ### DEMO 
 
-* [Click here for the demo](https://youtu.be/6EQMhcJonOU)
+* [Click here for the demo](https://youtu.be/_H8cMZAH7ss)
 This project displays skills in node.js by providing an application that uses a multitude of NPM packages, as well as MySQL to provide you with an interactive console Amazon type site.
 
 ## Getting Started
